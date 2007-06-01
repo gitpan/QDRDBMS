@@ -1,0 +1,17 @@
+archives/OSCON2005LightningTalk.txt
+archives/OSCON2006SessionProposal.txt
+Changes
+INSTALL
+lib/QDRDBMS.pm
+lib/QDRDBMS/AST.pm
+lib/QDRDBMS/Engine/Example.pm
+lib/QDRDBMS/Engine/Example/Operators.pm
+lib/QDRDBMS/Engine/Example/PhysType.pm
+lib/QDRDBMS/Language.pod
+lib/QDRDBMS/SeeAlso.pod
+lib/QDRDBMS/Validator.pm
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+META.yml
+README

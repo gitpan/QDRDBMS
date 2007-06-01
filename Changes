@@ -1,0 +1,41 @@
+                                  QDRDBMS
+---------------------------------------------------------------------------
+
+2007-05-31   Darren Duncan <perl@DarrenDuncan.net>
+
+    * QDRDBMS version 0.0.0 for Perl 5 is released on CPAN as
+    QDRDBMS-0.0.0.tar.gz.  QDRDBMS version 0.0.0 for Perl 6 is not released
+    at this time, if ever, since it is currently released only as part of
+    the Perl6-Pugs project (in its ext/QDRDBMS/ subdirectory), which sets
+    its own less frequent release schedule.  The rest of this Changes entry
+    refers only to the Perl 5 version.
+
+    * To be more specific, the version 0.0.0 that is released on CPAN is a
+    severely stripped down copy of the version 0.0.0 that is in version
+    control.  All executable code was stripped out, leaving only the POD to
+    go on CPAN.  It is expected that the first release after 2007 June 29
+    will not be stripped, and have all code and documentation.
+
+    * This is the first release of the Perl 5 QDRDBMS distribution, and the
+    first release of any distribution to contain Perl 5 modules named
+    QDRDBMS::\w+.
+
+    * This is the initial file manifest:
+
+        archives/OSCON2005LightningTalk.txt
+        archives/OSCON2006SessionProposal.txt
+        Changes
+        INSTALL
+        lib/QDRDBMS.pm
+        lib/QDRDBMS/AST.pm
+        lib/QDRDBMS/Engine/Example.pm
+        lib/QDRDBMS/Engine/Example/Operators.pm
+        lib/QDRDBMS/Engine/Example/PhysType.pm
+        lib/QDRDBMS/Language.pod
+        lib/QDRDBMS/SeeAlso.pod
+        lib/QDRDBMS/Validator.pm
+        Makefile.PL
+        MANIFEST			This list of files
+        MANIFEST.SKIP
+        META.yml
+        README
